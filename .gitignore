@@ -1,0 +1,8 @@
+.env
+outputs/
+__pycache__/
+*.pyc
+*.step
+*.stl
+cq_gears/__pycache__/
+cq_gears/cq_gears/__pycache__/cadquery/ 
