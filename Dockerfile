@@ -1,6 +1,8 @@
 FROM python:3.11-slim
 
+# Install system dependencies including git
 RUN apt-get update && apt-get install -y \
+    git \
     libgl1 \
     libglu1-mesa \
     libxrender1 \
