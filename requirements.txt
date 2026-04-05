@@ -1,5 +1,6 @@
 flask
 flask-cors
-groq
-cadquery
 python-dotenv
+cadquery
+cq_gears
+groq

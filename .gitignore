@@ -1,8 +1,38 @@
-.env
-outputs/
+# Environment
+.env/
+cadenv/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE / editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Output files
+outputs/
 *.step
 *.stl
+
+# cq_gears cache (if any)
 cq_gears/__pycache__/
-cq_gears/cq_gears/__pycache__/cadquery/ 
+cq_gears/cq_gears/__pycache__/
+
+# Logs
+*.log

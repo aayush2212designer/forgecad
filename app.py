@@ -15,7 +15,7 @@ from groq import Groq
 # ================== ENV ==================
 load_dotenv()
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "cq_gears"))
+
 from cq_gears import SpurGear, RingGear, BevelGear
 
 # ================== APP ==================
