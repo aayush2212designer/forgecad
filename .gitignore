@@ -36,3 +36,4 @@ cq_gears/cq_gears/__pycache__/
 
 # Logs
 *.log".env" 
+".env" 
