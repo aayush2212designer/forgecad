@@ -3,3 +3,4 @@ git+https://github.com/meadiode/cq_gears.git@main
 flask
 flask-cors
 python-dotenv
+groq
