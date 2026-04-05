@@ -1,7 +1,5 @@
+cadquery==2.7.0
+git+https://github.com/meadiode/cq_gears.git@main
 flask
 flask-cors
 python-dotenv
-cadquery
-cq_gears
-groq
-git+https://github.com/meadiode/cq_gears.git@main

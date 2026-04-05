@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.10-slim
 
 # Install system dependencies including git and build tools
 RUN apt-get update && apt-get install -y \
